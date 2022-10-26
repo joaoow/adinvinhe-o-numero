@@ -162,7 +162,7 @@ cout<<"  ###  ##    #####  ## ##   ##   ## ## "<<endl;
 cout<<"#  ##  ## ## ##     ## ##   ##   ## ## "<<endl;
 cout<<"####    ###   ####  ## ## ######  ###  "<<endl;
 cout<<"                                       "<<endl;
-cout<<"57en10@gmail.com"<<endl;
+cout<<"Finaly"<<endl;
 cout<<"  *    * ** **  "<<endl;
 cout<<"   *    *  *  **"<<endl;
 cout<<"     *          "<<endl;

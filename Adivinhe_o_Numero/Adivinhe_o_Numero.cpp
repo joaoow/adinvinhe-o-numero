@@ -1,11 +1,4 @@
-/*_______________________________
-  |Adivinhe o Numero v 1.0       |
-  |Programador:Stenio            |
-  |Feito: 30/01/2001             |
-  |Contato: 57en10@gmail.com     |
-  |Estudando no site             |
-  |agnor.gamedev-pt.net/tutorials|
-   ------------------------------*/
+
 
 #include <iostream>
 #include <stdlib.h>
